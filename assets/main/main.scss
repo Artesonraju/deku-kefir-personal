@@ -1,0 +1,9 @@
+@import '../global/reset';
+@import '../global/global';
+@import '../header/header';
+@import '../footer/footer';
+
+div {
+  font: 100% $font-stack;
+  color: $primary-color;
+}

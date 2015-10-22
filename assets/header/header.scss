@@ -1,0 +1,18 @@
+header {
+  background-color: darkgreen;
+  font: 200% $font-stack;
+  color: white;
+  padding: 10px;
+}
+
+header a {
+  cursor: pointer;
+}
+  
+header div {
+  float: right;
+}
+
+header span {
+  font: 15px $font-stack; 
+}
